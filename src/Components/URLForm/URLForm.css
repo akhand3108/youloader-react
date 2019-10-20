@@ -1,0 +1,16 @@
+.form{
+    width: 700px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.form input{
+    background: #240b36;
+    border-radius: 20px;
+    color: #fff;
+}
+
+.form button{
+    background: #200122;
+    border-radius: 10px;
+}
